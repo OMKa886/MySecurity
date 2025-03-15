@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MySecurityApplication",
+            "request": "launch",
+            "mainClass": "com.example.my_Security.MySecurityApplication",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-MySecurityBackendApplication<mySecurity-Backend>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "net.java.mySecurity_Backend.MySecurityBackendApplication",
+            "projectName": "mySecurity-Backend",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
