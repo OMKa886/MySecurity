@@ -8,7 +8,7 @@ Inspired by apps like MyGate, this system enables secure and seamless entry mana
 -📦 Delivery Entry Logs – Separate flow for delivery agents like Swiggy, Zomato, Amazon, etc.
 
 ## 📸 Screenshot
-![App Screenshot](MySecurity/Screenshot 2025-03-17 134337.png)
+![App Screenshot](Screenshot 2025-03-17 134337.png)
 
 ## 🛠 Tech Stack
 - React
