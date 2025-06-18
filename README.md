@@ -4,7 +4,7 @@ Inspired by apps like MyGate, this system enables secure and seamless entry mana
 
 ## 🚀 Features
 - 🔔 Visitor Approval Workflow – Residents get real-time notifications to approve or reject visitor entry.
-#-👮 Security Dashboard – Gatekeepers can manage visitor entries through an easy-to-use interface.
+-👮 Security Dashboard – Gatekeepers can manage visitor entries through an easy-to-use interface.
 -📦 Delivery Entry Logs – Separate flow for delivery agents like Swiggy, Zomato, Amazon, etc.
 
 ## 📸 Screenshot
